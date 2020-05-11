@@ -1,0 +1,23 @@
+Documentation:
+
+Numpy Documentation: https://numpy.org/
+Pandas Documentation: https://pandas.pydata.org/docs/
+Seaborn Documentation: http://seaborn.pydata.org/examples/index
+Matplotlib Documentation: https://matplotlib.org/
+Scikit-learn Documentation: https://scikit-learn.org/stable/
+Python Visualization library: https://python-graph-gallery.com/
+
+Youtube Channels:
+Ken jee: https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
+Sentdex: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+
+More courses:
+Data Cleaning: https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values
+Machine Learning: https://www.coursera.org/learn/machine-learning/home/welcome
+Deep Learning: https://www.udemy.com/course/deeplearning/
+Natural Language Processing: https://towardsdatascience.com/a-gentle-introduction-to-natural-language-processing-e716ed3c0863
+PostgreSQL: https://www.udemy.com/course/the-complete-sql-bootcamp/
+
+Datasets:
+Kaggle: https://www.kaggle.com/
+Quandl: https://www.quandl.com/
