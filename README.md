@@ -21,7 +21,7 @@ In simple words data science is the process of collecting and analyizing large a
 ### Step 2: Statistics
 Having basic knowledge in statistics you can easily know how to work with different types of data, how to plot and visualize different types of data, calculate correlation and covariance correlation and covariance and make data driven decisions
 #### Sources:
-Highly recommend this [course](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/) on udemy 
+Highly recommend this [course](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/) on udemy and
 also this youtube [channel](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy9cAg)
 
 ### Step 3: Learn data analysis, manipulation, and visualization
@@ -37,6 +37,7 @@ also this youtube [channel](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy
 #### Sources:
 * Sentdex: [ML Tutorial](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * Udemy course: [ML course](https://www.udemy.com/course/machinelearning)
+* Coursera (free): [ML course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 ### Step 5: Start getting your hands dirty
 As theoretical knowledge is great and facinating, there is nothing more facinating than applying theory into practice and expanding your knoweldge!
