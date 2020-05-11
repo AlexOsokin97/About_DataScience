@@ -49,5 +49,4 @@ As theoretical knowledge is great and facinating, there is nothing more facinati
 Before I end this tutorial I want to give you one more tip: **LEARN TO GOOGLE!**. Google and Documentation are the Data Scientist's best friends. As you work on your projects you'll encounter many difficulties and problems that the toturials wont cover. Also remember that as a Data Scientist you need to focus less on "remembering" the code and more on solving/answering questions in the best way possible. Don't be afraid to copy and use someone else's code (as long as it helps you).
 **ALWAYS GIVE CREDIT IF YOU USE SOMEONE ELSE'S CODE/RESOURCES!**
 
-I hope this little toturial helped you and remember...Google is your best friend!
--Alexander 
+I hope this little toturial helped you and goodluck!
