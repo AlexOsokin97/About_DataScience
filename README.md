@@ -35,6 +35,7 @@ also this youtube [channel](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy
 **This is the most facinating and intresting part in every data science project! And because of this reason I will give you the opportunity to explore, discover and get facinated on your own.
 
 #### Sources:
+* Machine Learning Mastery: [IMPORTANT](https://machinelearningmastery.com/)
 * Sentdex: [ML Tutorial](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * Udemy course: [ML course](https://www.udemy.com/course/machinelearning)
 * Coursera (free): [ML course](https://www.coursera.org/learn/machine-learning/home/welcome)
